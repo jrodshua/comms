@@ -1,0 +1,5 @@
+.announce-container {
+  border: 1px solid red;
+  width: 100%;
+  height: calc(100vh - 70px);
+}
